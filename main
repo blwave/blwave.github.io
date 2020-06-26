@@ -77,25 +77,33 @@ style="width:100%;">
  <span>Профиль</span>
  </a>
  </button>
-</p><p>
+</p>
+
+<p>
  <button>
  <a href="http://127.0.0.1:8080/black_wave/indexn.php">
  <span>Новости</span>
  </a>
  </button>
-</p><p>
+</p>
+
+<p>
  <button>
  <a href="http://127.0.0.1:8080/black_wave/indext.php">
  <span>Задания</span>
  </a>
  </button>
-</p><p>
+</p>
+
+<p>
  <button>
  <a href="http://127.0.0.1:8080/black_wave/indexf.php">
  <span>Форумы</span>
  </a>
  </button>
-</p><p>
+</p>
+
+<p>
  <button>
  <a href="http://127.0.0.1:8080/black_wave/indexs.php">
  <span>Магазин</span>
@@ -103,6 +111,7 @@ style="width:100%;">
  </button>
 </p>
 </td>
+
 <td style="width:86%">
 <p style="text-indent:2%"><font face="Times New Roman" size="4" color="#000000">
 В мире много несправедливости, зла и пороков,так было всегда, несмотря на то что общество меняется и его ценности преображаются.</p>
@@ -121,9 +130,7 @@ bgcolor="#000000"
 height="100"
 cellpadding="10"
 style="width:100%;">
-
 <tr>
-
 <th>
 
 <p align="center"><font face="Century Gothic" size="3" color="#FFFFFF">Никита Раскосов | Лидия Школина | Василий Костюков | Иван Мельников</p>
