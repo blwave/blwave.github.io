@@ -52,7 +52,7 @@ style="width:100%">
  bgcolor="#000000">
  <button style="width: 140px; height: 138px;">
  <a href="https://blwave.github.io/black_wave/main">
- <img align="center"; style="width: 130px; height: 130px;" src="logo.png">
+ <img align="center"; style="width: 130px; height: 130px;" src="logo.png" alt="Главная"/>
  </a>
  </button>
 
