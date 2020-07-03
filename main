@@ -49,12 +49,12 @@ cellpadding="0"
 style="width:100%">
 <tr>
  <td align="center"
- bgcolor="#000000">
+ <p>bgcolor="#000000">
  <button style="width: 140px; height: 138px;">
  <a href="https://blwave.github.io/black_wave/main">
- <img align="center"; style="width: 130px; height: 130px;" src="logo.png" alt="Главная"/>
+ <img align="center"; style="width: 130px; height: 130px;" src="logo.png" alt="Главная">
  </a>
- </button>
+ </button></p>
 
  </td>
  <th style="width:86%;">
